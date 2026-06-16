@@ -1,0 +1,15 @@
+This repository contains the scripts and command lines used in the analyses presented in the manuscript:
+
+Plant-microbiome-genome coupling promotes incipient ecological speciation
+
+Contents
+Population genomic analyses
+Structural variation analyses
+Microbiome analyses
+Transcriptome analyses
+Metabolomic analyses
+Figure generation scripts
+
+Availability
+To ensure consistency between the reviewed and published versions, the repository remains private at this stage. 
+All scripts and analysis workflows will be released publicly upon publication of the manuscript.
