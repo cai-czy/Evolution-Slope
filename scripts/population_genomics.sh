@@ -22,6 +22,7 @@
 VCF=barley.snp.vcf.gz
 POP1=Basalt.txt
 POP2=Terrarossa.txt
+THREADS=16
 
 ############################################################
 # FST
